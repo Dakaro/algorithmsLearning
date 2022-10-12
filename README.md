@@ -2,6 +2,11 @@
 
  ## Repository with selected old codes which I created during my learning of algorithms
 
+# Boredom
+- 12.10.2022
+- simple dynamic programming
+- link: https://codeforces.com/contest/455/problem/A
+
 # Tetris2D
 - 09.11.2021 
 - interval tree
